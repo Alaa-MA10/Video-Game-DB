@@ -1,11 +1,10 @@
 # VideoGameDb
+---
+![VideoGame DB screenshot](./image/screenshot.png)
 
+A website uses a public API to create a game database website, to view games details (e.g. platforms, genres, released, screenshots and trailers if available), Using Components, Data-Binding, HTTP, Services, Interceptor.
 
-A website uses a public API to create a game database website, to view games details (e.g. platforms, genres, released, screenshots and trailers if available) 
-
-### Using
-  Angular (structural-directives, routes, pipes, HTTP calls and interceptors)
-
-<br/>
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5 .
+## Build with
+ - Angular CLI
+ - RxJS
+ - RAWG Video Games Database API

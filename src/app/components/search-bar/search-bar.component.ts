@@ -12,7 +12,7 @@ export class SearchBarComponent implements OnInit {
   search_field!: string | null;
   
 
-  constructor(public router: Router) { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }
